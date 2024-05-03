@@ -3,8 +3,6 @@
 # Summary:
 To create a health database that contains specific patient information including first and last name, addresses, phone numbers, email addresses and health insurance information.
 
-# Key Aspects:
-
 # Health Database (patient information system) class  
 init constructor class initiates empty database in this case a list  
 Find patient information using patient id (list index)  
