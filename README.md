@@ -1,6 +1,6 @@
 # INST326: Object Oriented Programming Project Description
 
-# Summary:
+# Summary
 To create a health database that contains specific patient information including first and last name, addresses, phone numbers, email addresses and health insurance information.
 
 # Health Database (patient information system) class  
