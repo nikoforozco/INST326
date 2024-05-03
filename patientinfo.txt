@@ -1,0 +1,9 @@
+54321; Alyssa; Manio; Female; Asian; 02/25/1998; 9715 63rd Ave, Greenbelt MD 20770; 123-456-7890; ali@umd.edu; Medicare
+
+67890; Random; Person; Male; Asian; 04/22/2002; 124244 effjsf rsf, Afkjnasdfk WA 29384; 240-485-7549; cool@gmail.com; Health
+
+13579; Random; Man; Male; White; 09/23/2005; 12423 ABC Road, Columbia MD 20456; 123-456-7890; random@gmail.com; HealthInsure
+
+24680; Soch; TheRoach; Male; Asian; 11/22/3333; 124 63rd Place, Hawaii HW 23521; 111-222-3333; sochtheroach@gmail.com; HealthStuff
+
+34587; Random; Person; Male; 30; 12/25/1995; 123 House Road, Alexandria VA 98766; 123-456-7890; person@gmail.com; Wellpoint
